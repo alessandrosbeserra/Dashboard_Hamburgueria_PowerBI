@@ -23,7 +23,7 @@ Monitorar e analisar:
 ---
 
 ## 📷 Visual do Dashboard
-!Dashboard_vendas.png
+!Dashboard Villa Burger
 
 ---
 
