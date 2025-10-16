@@ -23,7 +23,7 @@ Monitorar e analisar:
 ---
 
 ## 📷 Visual do Dashboard
-!Dashboard_Análise_Vendas
+!Dashboard_Análise_Vendas.png
 
 ---
 
