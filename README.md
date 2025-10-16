@@ -23,7 +23,7 @@ Monitorar e analisar:
 ---
 
 ## 📷 Visual do Dashboard
-!Dashboard Villa Burger
+<img width="873" height="464" alt="Image" src="https://github.com/user-attachments/assets/88abdc09-b04c-4e80-892c-5e988ddc5d73" />
 
 ---
 
